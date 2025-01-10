@@ -15,7 +15,6 @@ public class IndexingSEApplication {
     public static void main(String[] args){
     if (args.length == 0) {
         logger.error("Please provide file to continue....");
-        logger.info("aaaa Please provide file to continue....");
 
         return;
         }
