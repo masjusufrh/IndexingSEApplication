@@ -36,9 +36,9 @@ business rules:
     ```
 
 ## Usage
-
+cd to your jar file then execute
 java -jar .\indexingSE-1.0-SNAPSHOT.jar .\test1.txt .\tes2.txt .\test.html
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License.
