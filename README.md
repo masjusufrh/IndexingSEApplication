@@ -37,7 +37,7 @@ business rules:
 
 ## Usage
 cd to your jar file then execute
-java -jar .\indexingSE-1.0-SNAPSHOT.jar .\test1.txt .\tes2.txt .\test.html
+java -jar indexingSE-1.0-SNAPSHOT.jar test1.txt tes2.txt test.html
 
 ## License
 
